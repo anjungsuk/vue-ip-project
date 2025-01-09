@@ -1,0 +1,1 @@
+nohup nginx -g 'daemon off;'
